@@ -1,0 +1,14 @@
+.title {
+    display: flex;
+    height: 30vh;
+    background-color: darkslategrey;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2 {
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+}

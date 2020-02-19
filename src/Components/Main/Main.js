@@ -1,9 +1,12 @@
 import React from 'react'
 import "./Main.css"
+
 function Main() {
     return (
-        <div>
-            <h1>Testing</h1>
+        <div className="main">
+            <div className="container3">
+
+            </div>
         </div>
     )
 }
