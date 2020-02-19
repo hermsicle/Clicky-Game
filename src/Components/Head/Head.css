@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    height: 10vh;
+    background-color: darkslateblue;
+    justify-content: space-around;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+h3 {
+    margin-right: 25px;
+    color: white;
+}
